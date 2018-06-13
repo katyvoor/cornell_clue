@@ -1,0 +1,2 @@
+true: package(js_of_ocaml), package(js_of_ocaml-ppx), package(js_of_ocaml-lwt), package(oUnit)
+<main.js>:pretty, opt(3)

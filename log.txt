@@ -1,0 +1,1670 @@
+commit 1a9cf5f15dcc99d862a8d9152b4c3529c8e197fd
+Merge: 3a6ed6d 457ccb0
+Author: Mahfuza Shovik <mahfuzashovik@dhcp-mcfad-10171.eduroam.cornell.edu>
+Date:   Tue May 15 05:16:51 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/szk4/cs3110-finalproject
+
+commit 3a6ed6d1599b6f4ae960e5a2e1c394b5f45bff97
+Author: Mahfuza Shovik <mahfuzashovik@dhcp-mcfad-10171.eduroam.cornell.edu>
+Date:   Tue May 15 05:16:39 2018 -0400
+
+    Cleaned up controller
+
+commit 457ccb0f67d7e46f44a1df8044e5596a692cf98d
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Tue May 15 04:25:24 2018 -0400
+
+    please now please be done
+
+commit 3b5d488a67d359d90b3714b3682c1f85ad27f831
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Tue May 15 04:24:15 2018 -0400
+
+    please be done
+
+commit 7b79023da745ca548c2a7fa36aac5b74a94ff6e0
+Merge: cb157af 94d3484
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Tue May 15 04:21:04 2018 -0400
+
+    this better be my last push
+
+commit cb157af65844b16bdbf72c3946f39444e6d7557f
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Tue May 15 04:19:36 2018 -0400
+
+    guess to my room
+
+commit 94d3484537c180d2abda8bfa4a3c602bc0ee04ea
+Merge: bdb58d1 97223fa
+Author: Mahfuza Shovik <mahfuzashovik@dhcp-hol-4693.eduroam.cornell.edu>
+Date:   Tue May 15 04:18:43 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/szk4/cs3110-finalproject
+
+commit bdb58d1d06b996526fbfa4a83820ea8d483d336a
+Author: Mahfuza Shovik <mahfuzashovik@dhcp-hol-4693.eduroam.cornell.edu>
+Date:   Tue May 15 04:18:37 2018 -0400
+
+    Finished types specs and tests
+
+commit 97223fa40e7274fa900e405f0529e20c13e8a00a
+Author: Alisha Mithal <alisha.mithal@gmail.com>
+Date:   Tue May 15 04:08:16 2018 -0400
+
+    fully working ai_difficulties
+
+commit ef3e20f132a2245f461d0d7068036725728ef592
+Merge: df741fa 413dbe7
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Tue May 15 04:00:29 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/szk4/cs3110-finalproject
+
+commit df741fa63f6263a52683b034e694abe4631925d8
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Tue May 15 04:00:26 2018 -0400
+
+    Help close
+
+commit 413dbe7938af5f8ea28b60ec3c88eed817439e52
+Merge: b34268b 680c1f9
+Author: Mahfuza Shovik <mahfuzashovik@dhcp-hol-4693.eduroam.cornell.edu>
+Date:   Tue May 15 03:54:49 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/szk4/cs3110-finalproject
+
+commit b34268b6a3f262f0d0d147266767a72899d19820
+Author: Mahfuza Shovik <mahfuzashovik@dhcp-hol-4693.eduroam.cornell.edu>
+Date:   Tue May 15 03:54:35 2018 -0400
+
+    Added gui_update_location test cases
+
+commit 680c1f9a18f188cbc2a7af2b7ed348595fcbd6bd
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Tue May 15 03:53:33 2018 -0400
+
+    fix gui
+
+commit 2eac5ce8e80164d6e78b20b5a028fe74788eecb1
+Merge: f0edad7 1c8ce93
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Tue May 15 03:51:21 2018 -0400
+
+    done w everythang
+
+commit f0edad7f76b417755f5f6fc2a0dfe0584585e140
+Merge: a0c9479 84bae61
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Tue May 15 03:32:30 2018 -0400
+
+    finish up
+
+commit 1c8ce9344094849916ae91971de664f665f67c39
+Author: KatyVoor <kev29@cornell.edu>
+Date:   Tue May 15 03:25:05 2018 -0400
+
+    text
+
+commit a0c94792cac54b0e48c38af91a01636b7e1f3ebb
+Merge: 25df03c 6abf7ee
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Tue May 15 03:25:03 2018 -0400
+
+    werk werk werk werk werk werk
+
+commit 84bae61f2cc7eb3c0febe945987be003bc39fcee
+Author: KatyVoor <kev29@cornell.edu>
+Date:   Tue May 15 03:05:30 2018 -0400
+
+    Shared information
+
+commit 0d4af00f181c703080f2f308a97ec4dfdb1f361c
+Author: KatyVoor <kev29@cornell.edu>
+Date:   Tue May 15 02:57:23 2018 -0400
+
+    finalizing
+
+commit 6abf7ee180cd8d2e4b533ab1a508f7bbe3436338
+Author: KatyVoor <kev29@cornell.edu>
+Date:   Tue May 15 02:37:14 2018 -0400
+
+    debugging
+
+commit 25df03c4ff605532d5c51d6b918be6782446ea92
+Merge: 23515ef e65ea23
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Tue May 15 02:32:41 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/szk4/cs3110-finalproject
+
+commit 23515ef1a569cb3ee4dce3c745e578b84370546c
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Tue May 15 02:31:51 2018 -0400
+
+    rework main
+
+commit e65ea23c82cba2048c5f228a70aceac3b0c24f4f
+Merge: bedb616 e41d013
+Author: Mahfuza Shovik <mahfuzashovik@dhcp-hol-4693.eduroam.cornell.edu>
+Date:   Tue May 15 02:25:20 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/szk4/cs3110-finalproject
+
+commit bedb61683f43ebbd837914aab66f4359f398076f
+Author: Mahfuza Shovik <mahfuzashovik@dhcp-hol-4693.eduroam.cornell.edu>
+Date:   Tue May 15 02:24:45 2018 -0400
+
+    all test cases pass
+
+commit e41d013dd896d4cc8fb4468e8cff17517844e589
+Author: KatyVoor <kev29@cornell.edu>
+Date:   Tue May 15 02:18:03 2018 -0400
+
+    pushing again
+
+commit ad28854007246b458bbebdf7c27c9ccdb5e35cdb
+Merge: 9d96e8c 8188634
+Author: KatyVoor <kev29@cornell.edu>
+Date:   Tue May 15 02:17:03 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/szk4/cs3110-finalproject
+
+commit 9d96e8c9370361e8856572a95ece35ca3ad5c870
+Author: KatyVoor <kev29@cornell.edu>
+Date:   Tue May 15 02:16:53 2018 -0400
+
+    its working
+
+commit 81886348009f1236848331730f8188bc4d0204f8
+Author: Alisha Mithal <alisha.mithal@gmail.com>
+Date:   Tue May 15 01:59:07 2018 -0400
+
+    enemy_ai difficulties for moving
+
+commit 472eb70de7df09dca96d292c12628b44d8d8398f
+Merge: 6cff3ce 80666dd
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Tue May 15 01:53:16 2018 -0400
+
+    jegjrn
+
+commit 6cff3ce0e62437b4289a82137a85b3570d80e8ec
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Tue May 15 01:48:39 2018 -0400
+
+    fix front end
+
+commit 80666ddaa1f5e8c6413a24b795de824087658ca6
+Merge: 541bf65 d5e38f3
+Author: KatyVoor <kev29@cornell.edu>
+Date:   Tue May 15 01:46:54 2018 -0400
+
+    new
+
+commit 541bf65d90bde4f45c14e12d92722686c68d2ba1
+Author: KatyVoor <kev29@cornell.edu>
+Date:   Tue May 15 01:46:32 2018 -0400
+
+    changed player
+
+commit d5e38f37f09b4c52dff7cbbe655a099434f3fa4b
+Author: Mahfuza Shovik <mahfuzashovik@dhcp-hol-4693.eduroam.cornell.edu>
+Date:   Tue May 15 01:14:44 2018 -0400
+
+    All test cases pass
+
+commit 48632f2e9194ae5acbd7a82d5147f1d53ddc5cee
+Merge: 9e5df95 7906d87
+Author: Mahfuza Shovik <mahfuzashovik@dhcp-hol-4693.eduroam.cornell.edu>
+Date:   Tue May 15 01:12:07 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/szk4/cs3110-finalproject
+
+commit 9e5df95738a331bd1d38bbfda65ee59930ee4d74
+Author: Mahfuza Shovik <mahfuzashovik@dhcp-hol-4693.eduroam.cornell.edu>
+Date:   Tue May 15 01:11:48 2018 -0400
+
+    Init suspect ai works now
+
+commit 7906d870f6813f5d1679e224cedbcbd3b8b82783
+Author: KatyVoor <kev29@cornell.edu>
+Date:   Tue May 15 01:01:10 2018 -0400
+
+    martha
+
+commit d446caa03b5ba11bb28e5b58f113489e3a341801
+Author: KatyVoor <kev29@cornell.edu>
+Date:   Tue May 15 00:57:39 2018 -0400
+
+    changed output text
+
+commit 45c7273916b75e4c39ffd556ed0fd5f01cdac8e0
+Merge: 98b8033 245c881
+Author: KatyVoor <kev29@cornell.edu>
+Date:   Tue May 15 00:49:47 2018 -0400
+
+    merging
+
+commit 98b8033e5419c5d770d88a14f7f9528d91f50fdc
+Author: KatyVoor <kev29@cornell.edu>
+Date:   Tue May 15 00:49:24 2018 -0400
+
+    merging
+
+commit 245c8814be6863e1dc8ffa1b1a71bf9fb715b2aa
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Tue May 15 00:48:15 2018 -0400
+
+    main.ml debugging
+
+commit e70b7ee8ef87ff4aed1fd3a4958d9b071beb3f0d
+Author: KatyVoor <kev29@cornell.edu>
+Date:   Tue May 15 00:48:03 2018 -0400
+
+    types
+
+commit 202a914d288045b822ca034d7bef74b7e23822c2
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Tue May 15 00:41:36 2018 -0400
+
+    work Mrs martha
+
+commit 08398278db08bc97e2b938b7c018ead42bfae035
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Tue May 15 00:36:56 2018 -0400
+
+    Update main.mml
+
+commit 59b93f5ea5597dfe8b9a0078dd1ba07562a5108b
+Merge: f7f4784 2da847f
+Author: Mahfuza Shovik <mahfuzashovik@dhcp-hol-4693.eduroam.cornell.edu>
+Date:   Tue May 15 00:35:36 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/szk4/cs3110-finalproject
+
+commit f7f4784467fe9b3be3d28932950c5eacad890ddf
+Author: Mahfuza Shovik <mahfuzashovik@dhcp-hol-4693.eduroam.cornell.edu>
+Date:   Tue May 15 00:35:03 2018 -0400
+
+    Init suspect list changes
+
+commit 2da847f3a55f723651c5fdfb414a39ecd7fa1ff7
+Merge: bbb35d4 17af8e1
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Mon May 14 23:47:18 2018 -0400
+
+    debug mode
+
+commit bbb35d49ae6c3ea55944f7c9b4c5622556174ad2
+Merge: 0a96512 43b1d0e
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Mon May 14 23:44:54 2018 -0400
+
+    work
+
+commit 17af8e18a1bf9e86514d0ea018fff3d1c57a8b3f
+Author: KatyVoor <kev29@cornell.edu>
+Date:   Mon May 14 23:43:54 2018 -0400
+
+    new
+
+commit 0a96512084e57993fe92184b77b96c546a1b60f2
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Mon May 14 23:43:37 2018 -0400
+
+    please work
+
+commit 43b1d0e1b9e65beb976f4fef682772ab89ba6f95
+Author: KatyVoor <kev29@cornell.edu>
+Date:   Mon May 14 23:05:05 2018 -0400
+
+    fixed type issues
+
+commit 06c23bc4cb8116c94a597c71979471f321e11c0f
+Merge: ef43185 e3a7e86
+Author: KatyVoor <kev29@cornell.edu>
+Date:   Mon May 14 23:01:04 2018 -0400
+
+    con to gui to con
+
+commit ef43185c1f334eb2b89ee793454030fb4078692c
+Author: KatyVoor <kev29@cornell.edu>
+Date:   Mon May 14 22:57:36 2018 -0400
+
+    con to gui to con
+
+commit ad5e30e14f4672223c382a4418f36a29f4487907
+Merge: fb9f34c e3a7e86
+Author: Mahfuza Shovik <mahfuzashovik@dhcp-hol-4693.eduroam.cornell.edu>
+Date:   Mon May 14 22:57:16 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/szk4/cs3110-finalproject
+
+commit fb9f34c7582cd72a09cd81e070c4ab950fddef2e
+Author: Mahfuza Shovik <mahfuzashovik@dhcp-hol-4693.eduroam.cornell.edu>
+Date:   Mon May 14 22:57:02 2018 -0400
+
+    Suspect list tests
+
+commit e3a7e86830e99d8c8bb5e28f74d9cf0298eb9b62
+Merge: 3faa4ce bd6f7b3
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Mon May 14 22:56:20 2018 -0400
+
+    done
+
+commit 3faa4ce6447f0680445a87b77bea4fe52b044d41
+Merge: e09ec8d c640597
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Mon May 14 22:00:15 2018 -0400
+
+    fix update_gui for win lose
+
+commit bd6f7b34be808b586deb923119134bb670b4f243
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Mon May 14 21:48:32 2018 -0400
+
+    con to gui be done
+
+commit 83807fa1375e8106f373cfd95460a5a8cbc7803b
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Mon May 14 21:17:39 2018 -0400
+
+    con to gui
+
+commit f7f3093e02aaf357adbb8efa1992dd3ddf9c5dde
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Mon May 14 21:01:35 2018 -0400
+
+    reorgss
+
+commit e09ec8db1e7739e7360ef1af708fadbbcc534f7b
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Mon May 14 21:00:59 2018 -0400
+
+    hello
+
+commit c6405975c2e45cffcc6167840d8172027a2b2fb2
+Merge: 499bc2e 3e37bd4
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Mon May 14 20:59:02 2018 -0400
+
+    reorganize
+
+commit 499bc2ec0ade62fdb3ea1d5a3e674ceb95233b3a
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Mon May 14 18:22:51 2018 -0400
+
+    merging
+
+commit 3e37bd4cf24e2984cd07f5f7f85f77841811c517
+Merge: 2d4d837 a6a0bbb
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Mon May 14 18:22:39 2018 -0400
+
+    push please
+
+commit 2d4d83797c8bb44f726c23e370d5110ec14557ee
+Merge: 181d474 92264ac
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Mon May 14 18:14:56 2018 -0400
+
+    update move
+
+commit a6a0bbb0207c9d0edb8ed401c0d6cb5567cc6d09
+Author: Alisha Mithal <alisha.mithal@gmail.com>
+Date:   Mon May 14 18:05:08 2018 -0400
+
+    added get_room
+
+commit 99ce6c37b33e6ad979e44850e82381992c2fd02b
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Mon May 14 18:02:03 2018 -0400
+
+    guessing text
+
+commit 8933533c6fdb4936d51aa35ba9c8d937a74b1b8d
+Merge: b23e4e0 7734732
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Mon May 14 17:40:20 2018 -0400
+
+    working on suggestion
+
+commit b23e4e0981edab00928c844f988030c529d8ea42
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Mon May 14 17:39:06 2018 -0400
+
+    suggestion
+
+commit 7734732d62f03cc068ec3077daa22554f946ca1a
+Author: Alisha Mithal <alisha.mithal@gmail.com>
+Date:   Mon May 14 17:33:47 2018 -0400
+
+    enemy_ai difficulty tweak
+
+commit 181d474319d601ebadca7eae1a52f44cc1026a08
+Merge: ee90fd9 721cd46
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Mon May 14 17:13:05 2018 -0400
+
+    dont merge
+
+commit 92264acb0be494c8e1f9c5716c669850ce408d3a
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Mon May 14 17:13:01 2018 -0400
+
+    bug fixes
+
+commit 905dbfc0009f3fe2a965c93865b30f20af319d7a
+Author: Alisha Mithal <alisha.mithal@gmail.com>
+Date:   Mon May 14 16:49:00 2018 -0400
+
+    quick fix on closest_to_room
+
+commit ee90fd9fb20c4617f90617627e61780896bfd522
+Merge: 64033e0 0121acd
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Mon May 14 16:42:41 2018 -0400
+
+    stop
+
+commit 721cd4675587c6c908b658cddd76524f2b555b4e
+Merge: 1d7c401 0121acd
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Mon May 14 16:42:17 2018 -0400
+
+    game loop2
+
+commit 64033e02fc6e207b3442185f26f3957d992b0994
+Merge: 19ff127 3507046
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Mon May 14 16:20:29 2018 -0400
+
+    update gui
+
+commit 1d7c4015b58bd49888d4c3e8748f9866ca3e5e1e
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Mon May 14 16:11:56 2018 -0400
+
+    moves
+
+commit 0121acd32110eb97349d1462f13f07c056042c2f
+Author: Alisha Mithal <alisha.mithal@gmail.com>
+Date:   Mon May 14 16:11:45 2018 -0400
+
+    closest_to_room function
+
+commit a465a6130694fb52c7a7096f988163beedac219a
+Author: Alisha Mithal <alisha.mithal@gmail.com>
+Date:   Mon May 14 15:49:48 2018 -0400
+
+    in_a_room fix
+
+commit a41f320e2f6b494a045ba873dc1e07bb3db020a6
+Author: Alisha Mithal <alisha.mithal@gmail.com>
+Date:   Mon May 14 15:48:27 2018 -0400
+
+    merging
+
+commit 494c7ee89ac71ea915f1ba54388f16bdbcb9104c
+Merge: 9029f25 fb8e949
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Mon May 14 15:43:05 2018 -0400
+
+    merged
+
+commit 9029f25033e2156661987db971ab34ba388b2ae3
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Mon May 14 15:41:45 2018 -0400
+
+    new moves
+
+commit fb8e949504ddba8eb1a4c70fb8b5410abf3ab4ea
+Author: Alisha Mithal <alisha.mithal@gmail.com>
+Date:   Mon May 14 15:41:34 2018 -0400
+
+    in_a_room func
+
+commit e96915f66e931c4b9ae09fa635183bc550b8c398
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Mon May 14 15:01:52 2018 -0400
+
+    game loop1
+
+commit c557e822bf37f54eca6865c14a2960e600f6b11f
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Mon May 14 14:52:43 2018 -0400
+
+     game loop nearly working
+
+commit b971698c0d5fdc0beaa27ddead4cfbfd7599afa3
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Mon May 14 14:19:18 2018 -0400
+
+    move fixeD
+
+commit 19ff127e31bbab994cc576b0869be5d47ca5fbe5
+Merge: c86ccbe e949447
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Mon May 14 10:25:55 2018 -0400
+
+    compile working
+
+commit 35070460fbf561c19f3b57deb7ddfb5e699c569b
+Merge: 8dbba69 e949447
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Mon May 14 03:16:54 2018 -0400
+
+    working on game flow
+
+commit 8dbba69acee789270e84d3046c93c14a62ec3c7a
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Mon May 14 03:15:52 2018 -0400
+
+    working on game flow
+
+commit c86ccbe970357ffb4f07f40543151f59c5d22f5f
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Mon May 14 02:42:01 2018 -0400
+
+    move gui locations function to gui
+
+commit e9494472e9bff3b70d2fe578a1741460b261d394
+Merge: a27190d cafd69e
+Author: Mahfuza Shovik <mahfuzashovik@dhcp-hol-3227.eduroam.cornell.edu>
+Date:   Mon May 14 02:37:22 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/szk4/cs3110-finalproject
+
+commit a27190d388f57ea27eb273be14cc47d5e656a900
+Author: Mahfuza Shovik <mahfuzashovik@dhcp-hol-3227.eduroam.cornell.edu>
+Date:   Mon May 14 02:37:09 2018 -0400
+
+    Added controller tests
+
+commit cafd69e7b7bfbeaff020c113658134d364f45a47
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Mon May 14 02:36:44 2018 -0400
+
+    turns are working mroe so
+
+commit ffe70d68d187fb29f5279614944b1d436d79ba10
+Merge: b9ce8c0 c7cccca
+Author: Mahfuza Shovik <mahfuzashovik@dhcp-hol-3227.eduroam.cornell.edu>
+Date:   Mon May 14 02:36:14 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/szk4/cs3110-finalproject
+
+commit b9ce8c03af39cf782c0d4ab9206a93fc10dd3e83
+Author: Mahfuza Shovik <mahfuzashovik@dhcp-hol-3227.eduroam.cornell.edu>
+Date:   Mon May 14 02:32:15 2018 -0400
+
+    Added controller tests
+
+commit c7cccca75989d164c40aa5687facbcef9fd33461
+Merge: 97d87a9 ec08c9f
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Mon May 14 02:20:34 2018 -0400
+
+    fixing refs:
+
+commit 97d87a9bdea4011fe508525509025359c35446da
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Mon May 14 02:19:57 2018 -0400
+
+    bug fixes
+
+commit ec08c9fc35da0b018c05c417869eb58537e47223
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Mon May 14 02:19:42 2018 -0400
+
+    update locations not working
+
+commit 60bb0bee471ed0fa7cee12116139553a8eb3a0cc
+Merge: 755f004 4184b5e
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Mon May 14 02:17:49 2018 -0400
+
+    Fix merge
+
+commit 755f004b6eb14f7ac2221abef63270a4510e0b91
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Mon May 14 02:14:10 2018 -0400
+
+    Update get_next_action
+
+commit 4184b5e98d53e6c181dfe38ca8e539a9986733ee
+Author: Alisha Mithal <alisha.mithal@gmail.com>
+Date:   Mon May 14 02:13:57 2018 -0400
+
+    fixed type issues in main
+
+commit 93710560ec1f07fbf59455839627b492e625feff
+Merge: b84ca27 fb52e6c
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Mon May 14 02:11:45 2018 -0400
+
+    work
+
+commit b84ca27eaa201c70b31dacf467f9d56616e1d7e5
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Mon May 14 02:09:29 2018 -0400
+
+    disable buttons
+
+commit fb52e6ceccb3c047825e8c2bf68fb06964e994c1
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Mon May 14 01:53:19 2018 -0400
+
+    updated mlis
+
+commit 97445d857ad6bdff1d01abb5cb1092c7743a683e
+Merge: bd8bea6 f8bcf38
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Mon May 14 01:48:14 2018 -0400
+
+    merging
+
+commit bd8bea6540d84c9c9e9741f6725bd1bebbcfd71a
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Mon May 14 01:47:38 2018 -0400
+
+    three poeple are rolling
+
+commit 435b35ea402e0450b1157af6ebf7417a4a75f814
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Mon May 14 01:28:27 2018 -0400
+
+    enemy _ai
+
+commit f8bcf38dba22508dbc24c3d4f80a8e8144402e85
+Merge: cab25c5 6940da7
+Author: Mahfuza Shovik <mahfuzashovik@dhcp-gs-2140.eduroam.cornell.edu>
+Date:   Mon May 14 01:23:42 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/szk4/cs3110-finalproject
+
+commit cab25c592e91d6958a360c4124dbee612b5e53d6
+Author: Mahfuza Shovik <mahfuzashovik@dhcp-gs-2140.eduroam.cornell.edu>
+Date:   Mon May 14 01:18:16 2018 -0400
+
+    Added type specs and tests
+
+commit 6940da7ba115b1c6f8a496bfb026a67d9daac573
+Author: Alisha Mithal <alisha.mithal@gmail.com>
+Date:   Mon May 14 01:15:28 2018 -0400
+
+    location functions in main
+
+commit eb62ebd15bd2ebef1009ac405e7516202e26aaec
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Mon May 14 00:30:34 2018 -0400
+
+    work
+
+commit e9e639acf37513599eba66876ebe757e79772038
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Mon May 14 00:25:31 2018 -0400
+
+    work
+
+commit e90f3f0dc58626b612e66f85d38192af3adfe222
+Merge: 7183301 e219f62
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Mon May 14 00:16:03 2018 -0400
+
+    fix merge
+
+commit 7183301122759330a0e4f03e350c67715e1bcd56
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Mon May 14 00:15:27 2018 -0400
+
+    fixed repl
+
+commit e219f62b1f116ed862e87896d7d2f10f8e8725b0
+Author: Mahfuza Shovik <mahfuzashovik@dhcp-gs-2140.eduroam.cornell.edu>
+Date:   Mon May 14 00:05:57 2018 -0400
+
+    Added specs to types, added unit tests, fixed pattern matching errors
+
+commit 09ed1852311d02b120a6241daa489bdd28d99ff4
+Author: Mahfuza Shovik <mahfuzashovik@dhcp-gs-2140.eduroam.cornell.edu>
+Date:   Sun May 13 23:49:28 2018 -0400
+
+    Test cases pass now
+
+commit 5a942f9080711e856e17fd58bbdb5b381ca05166
+Merge: 88063f2 dc2446a
+Author: Mahfuza Shovik <mahfuzashovik@dhcp-gs-2140.eduroam.cornell.edu>
+Date:   Sun May 13 23:40:41 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/szk4/cs3110-finalproject
+
+commit 88063f2d72eec1e66ac6decb8a9287a278727aed
+Author: Mahfuza Shovik <mahfuzashovik@dhcp-gs-2140.eduroam.cornell.edu>
+Date:   Sun May 13 23:40:32 2018 -0400
+
+    Edited test cases
+
+commit dc2446a386013782133fa0d17fd53576a3a4f921
+Merge: 83019b6 e6fc4e6
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Sun May 13 23:29:09 2018 -0400
+
+    gui stuff
+
+commit 83019b63d741075357dfbf9954e3539555819bfd
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Sun May 13 23:04:15 2018 -0400
+
+    fix
+
+commit e6fc4e64bd1d5d7e8fcff0a665b45719b313c37b
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Sun May 13 23:03:39 2018 -0400
+
+    new stuff
+
+commit 3fbf114cf2387576baa7997381236b649602a1e6
+Merge: 45f593a 8363100
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Sun May 13 23:01:56 2018 -0400
+
+    pull request
+
+commit 45f593a89649c0f99146945733dada3732fb98a6
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Sun May 13 23:01:04 2018 -0400
+
+    pulling
+
+commit 8363100a4878dc98d33d32ee4d72a53a214ef8e5
+Merge: 7ace3e9 6379246
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Sun May 13 22:27:18 2018 -0400
+
+    get next action and move almost done
+
+commit 7ace3e94f8bce4466cdbe3cda5fc517a2fc9c8d0
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Sun May 13 19:21:20 2018 -0400
+
+    game loop is trash
+
+commit 6379246883f32ca6454733e4dae5acbabe348b0f
+Merge: 9e204b5 19e0659
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Sun May 13 17:20:27 2018 -0400
+
+    tests
+
+commit 9e204b5e49418e92df5214586bcda9b9223db9ba
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Sun May 13 17:20:04 2018 -0400
+
+    tests and updated suspect list
+
+commit 19e06595bf0be66316c801de64b40f2a85421042
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Sun May 13 16:18:30 2018 -0400
+
+    trying to figure out loop
+
+commit be5710bd2eda7978f3bd2bc9e2e096761af9be18
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Sun May 13 15:54:04 2018 -0400
+
+    update readme
+
+commit 5b56591b7602866e7b72e808558bfc9db43f23c5
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Sun May 13 15:53:35 2018 -0400
+
+    update readme
+
+commit b040719d46c336cb2a68a8f2730b8195c2327abb
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Sun May 13 15:51:58 2018 -0400
+
+    update main.ml to initialize
+
+commit dff2cca08ab87b7bd573994387a340f8748b3e06
+Merge: 3297601 dcb437a
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Sun May 13 14:09:50 2018 -0400
+
+    adding functions to gui
+
+commit 32976018fbbe4aae3e1527ef167c8c99c8cb6555
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Sun May 13 11:06:46 2018 -0400
+
+    delete bunch of files
+
+commit dcb437af5572c31d29929393047d91cfb18442e7
+Merge: 8a740a9 8dd4b9b
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Sat May 12 21:21:19 2018 -0400
+
+    pushed
+
+commit 8a740a989c206f54f8679cc81b902fdfe3739154
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Sat May 12 21:20:36 2018 -0400
+
+    pushed
+    :
+
+commit 8dd4b9b26666d1d3832009c6e1f9e29189656cec
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Sat May 12 20:57:41 2018 -0400
+
+    work all of main
+
+commit f1352bbce155c87dae1ef98c699e18f0be74ba4a
+Merge: 773f5ad 478a5ae
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Sat May 12 20:37:48 2018 -0400
+
+    work on stuff
+
+commit 773f5adcae7592390e97fa51ec76df2c1e1d2e49
+Merge: 82df8b5 c7e730d
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Sat May 12 20:13:12 2018 -0400
+
+    debug main.ml
+
+commit 478a5ae51cee628e57e00031301ee995c2e69864
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Sat May 12 18:39:06 2018 -0400
+
+    merge
+
+commit 82df8b5b90d9d12a1ea7adfc16e37b005c7f34d0
+Merge: de0d311 025b84d
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Sat May 12 18:35:34 2018 -0400
+
+    add room coordinates
+
+commit c7e730d6adea50546c53bd6938ec72cfa4e4a10b
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Sat May 12 18:13:04 2018 -0400
+
+    ai action
+
+commit de0d3117c366916541cf2e1b85b57c45331a2781
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Sat May 12 17:55:48 2018 -0400
+
+    work
+
+commit 025b84dcbed3964ffc6d8abb72c882e688639dc2
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Sat May 12 17:55:12 2018 -0400
+
+    compilig
+
+commit c286bb02f68eefc6b6a419236f1182c087962e35
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Sat May 12 17:54:07 2018 -0400
+
+    update main.ml
+
+commit c185251a079f8e072cf1a76db699967fcdfeecb2
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Sat May 12 17:53:44 2018 -0400
+
+    compilinggg
+
+commit 914af00dbd487d161363b6f08b366107f45fe2d0
+Merge: 65e6ca4 7b6220b
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Sat May 12 17:45:52 2018 -0400
+
+    merging
+
+commit 65e6ca46d4a5f521dc59851511d56df98ede1edb
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Sat May 12 17:44:26 2018 -0400
+
+    mergeing
+
+commit 7b6220b7227c9ec194ef0426e940f04805211f50
+Merge: 41ff179 9b774fc
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Sat May 12 17:44:11 2018 -0400
+
+    debug controller.ml
+
+commit 41ff1790c08bc5fd09cad715120e281e6bcc94db
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Sat May 12 17:02:05 2018 -0400
+
+    update types.mli
+
+commit 9b774fc401aae7a597157157c476ddfe99d70c30
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Sat May 12 17:01:35 2018 -0400
+
+    connnecting
+
+commit 364eb33b0b9ea79512091e9e3f72bbc0e6a64eda
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Sat May 12 15:08:00 2018 -0400
+
+    work
+
+commit 173b093776bedc2eff34699f511edd87f5281b36
+Merge: 885d2f5 d823ed7
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Sat May 12 14:59:16 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/szk4/cs3110-finalproject
+
+commit 885d2f5b0284526931cd2afe36962d28e37d77fd
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Sat May 12 14:59:13 2018 -0400
+
+    controller is done
+
+commit d823ed7f5d9561226ebbebbac4b3734c23f767d0
+Merge: f2d652d 79f282b
+Author: Mahfuza Shovik <mahfuzashovik@dhcp-mcfad-10171.eduroam.cornell.edu>
+Date:   Sat May 12 14:46:09 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/szk4/cs3110-finalproject
+
+commit f2d652de33da04d7f58e7eef3f4abb134655ca05
+Author: Mahfuza Shovik <mahfuzashovik@dhcp-mcfad-10171.eduroam.cornell.edu>
+Date:   Sat May 12 14:46:04 2018 -0400
+
+    Edited test suite
+
+commit 79f282b51bab4b622566413c3fbe4dff53a89adb
+Author: Alisha Mithal <alisha.mithal@gmail.com>
+Date:   Sat May 12 14:41:03 2018 -0400
+
+    connect repl
+
+commit 109c2b678cca3dacf6460d87cbcc232de6198411
+Merge: ab8ad2b 4d6b486
+Author: Alisha Mithal <alisha.mithal@gmail.com>
+Date:   Sat May 12 14:38:05 2018 -0400
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 4d6b48683d293dbee205322c061ca6055ebf718f
+Merge: ca5332a 48f9b40
+Author: Mahfuza Shovik <mahfuzashovik@dhcp-mcfad-10171.eduroam.cornell.edu>
+Date:   Sat May 12 14:23:06 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/szk4/cs3110-finalproject
+
+commit ca5332a86e7bb0841362a4a003a8cb9aec1b482c
+Author: Mahfuza Shovik <mahfuzashovik@dhcp-mcfad-10171.eduroam.cornell.edu>
+Date:   Sat May 12 14:21:29 2018 -0400
+
+    Enemy ai changes
+
+commit 48f9b402b64502470b802162f071c29553eb53c1
+Merge: 4f001fa ccde07b
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Sat May 12 14:10:25 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/szk4/cs3110-finalproject
+
+commit 4f001fa8baeb7f81280e7758fe050ede31376250
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Sat May 12 14:10:20 2018 -0400
+
+    reworking make
+
+commit ccde07bb07757aa319498f801e8d4d7b04ff4cd5
+Merge: fdf4e6d dfcf1ac
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Sat May 12 13:48:59 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/szk4/cs3110-finalproject
+
+commit fdf4e6d6bc114ed636164287efe7185d8cc99960
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Sat May 12 13:48:54 2018 -0400
+
+    actions done
+
+commit dfcf1ac0cadec6758253b5cf19b14526f82e7882
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Sat May 12 02:32:33 2018 -0400
+
+    working on frontend
+
+commit 681e7f546c62c812c63ab4d9044fc763de969ee6
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Fri May 11 23:46:07 2018 -0400
+
+    fix readme
+
+commit 338aa7c7f8c84922fef2c90b16454c0a4c7958f2
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Fri May 11 23:45:41 2018 -0400
+
+    fix readme
+
+commit 64d1c8921a6bb5322c2466605f77a7b9083bf54b
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Fri May 11 23:41:16 2018 -0400
+
+    Merge together
+
+commit e3a300f13f99748b36ccc4ac8cff66aaf7729dca
+Merge: af562aa 8690728
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Fri May 11 23:41:03 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/szk4/cs3110-finalproject
+
+commit af562aa790d76d4ccd0bdccfa5e020a128974338
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Fri May 11 23:40:58 2018 -0400
+
+    rework directory to make front-end work
+
+commit 869072812e564cbb52e334d55c8cad555a9432a0
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Fri May 11 20:51:14 2018 -0400
+
+    working on ai suggestion
+
+commit ab8ad2b9361865e31bbbaffe3a8cec7bc858fb94
+Merge: 024a2b6 a30b2a2
+Author: Alisha Mithal <alisha.mithal@gmail.com>
+Date:   Fri May 11 18:21:25 2018 -0400
+
+    Merge remote-tracking branch 'origin/master'
+
+commit a30b2a2f223d292509de478965da04f1876fb5a5
+Merge: 5e6c2b1 9472cbe
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Fri May 11 18:21:07 2018 -0400
+
+    fix merge
+
+commit 5e6c2b17385e1a097be94316d22849b22410619b
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Fri May 11 18:20:30 2018 -0400
+
+    please work
+
+commit 024a2b620893e425cdd2e8e6fd5fa30ff762eb79
+Merge: ca353a3 9472cbe
+Author: Alisha Mithal <alisha.mithal@gmail.com>
+Date:   Fri May 11 18:19:23 2018 -0400
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 9472cbed24e4e15f2693feba9fc6dbab697ac355
+Merge: 2c4190c 19f8f94
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Fri May 11 18:12:13 2018 -0400
+
+    new
+
+commit 2c4190c028c21aaad85bbe143036eb4cab219d79
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Fri May 11 18:09:37 2018 -0400
+
+    output_text
+
+commit ca353a3e0f8e487a12ac4fa3100a6c724514699b
+Merge: a7587cf 19f8f94
+Author: Alisha Mithal <alisha.mithal@gmail.com>
+Date:   Fri May 11 18:03:16 2018 -0400
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 19f8f9481bfe07f726e3af20ade0dd27be1c672f
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Fri May 11 16:59:25 2018 -0400
+
+    rework directory
+
+commit d48d677f2d729a640e383d033fcd54cd7edb3d81
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Fri May 11 13:12:14 2018 -0400
+
+    Rework files to compile
+
+commit 6a60fe459d04a038a822d9b8f713b01c1f66ad76
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Wed May 9 12:32:14 2018 -0400
+
+    add images and  update structure
+
+commit 89b341ae854e65dde2bb870f7685cde8e8c8e163
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Sat May 5 16:00:09 2018 -0400
+
+    add map_p_coordinates in coordinates.ml file
+
+commit 0d88733d4848aa1ef2d3b50846fbb9a206fe5bcf
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Fri May 4 16:44:41 2018 -0400
+
+    add css
+
+commit a7587cffca3672e885af5df5604c744486a0f9d7
+Merge: 5dcaf4e c64dc7e
+Author: Alisha Mithal <alisha.mithal@gmail.com>
+Date:   Fri May 4 16:42:24 2018 -0400
+
+    Merge remote-tracking branch 'origin/master'
+
+commit c64dc7ed497a581f54e0acb0749a9ece94f8a1fe
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Fri May 4 16:14:13 2018 -0400
+
+    add index
+
+commit b09688e6817556b03add1f6ac39086ca1304131a
+Merge: 1807d8d 0264ee3
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Fri May 4 15:57:20 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/szk4/cs3110-finalproject
+
+commit 1807d8d201ac55c80a16022afb3f4c0386a6225a
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Fri May 4 15:57:15 2018 -0400
+
+    update index.html
+
+commit 0264ee33980c2b4ecb841c5531a188c4730b6ecb
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Fri May 4 15:45:35 2018 -0400
+
+    enemy ai tested
+
+commit 84c3eaf973cb553d0e8da8e0869143dc5b55c744
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Fri May 4 15:21:09 2018 -0400
+
+    wroking on testing
+
+commit 62f9175f3c8782bfe2fd3507fd4c998251c98dda
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Fri May 4 15:00:50 2018 -0400
+
+    should type check
+
+commit 486d56b6fc788141e3e133582b3751bd8e28dd87
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Fri May 4 14:47:13 2018 -0400
+
+    everything type checks except init_state
+
+commit f1e3f700017147a884b74794e6823c86512065cf
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Fri May 4 14:33:51 2018 -0400
+
+    Getting there
+
+commit 8d9846053f1b04d4cbb26e319e8bd991a44db45a
+Merge: 995db51 d37f45d
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Fri May 4 13:56:08 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/szk4/cs3110-finalproject
+
+commit 995db5127276bd8ef75fec9f58741a426ed6bdfa
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Fri May 4 13:56:04 2018 -0400
+
+    help with init_State
+
+commit d37f45d06c7f06f5ad6e5e8fe60257cbea7fdaa7
+Merge: 6ef7e0d f09201a
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Fri May 4 13:36:23 2018 -0400
+
+    merge player.ml
+
+commit 6ef7e0d213d47db0f2a547ba032132dd34670d0c
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Fri May 4 13:35:41 2018 -0400
+
+    add characters
+
+commit f09201a4081bbb450867974a8e1e5d3c06d2c5bc
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Fri May 4 13:32:31 2018 -0400
+
+    controller types
+
+commit 5d02c65a09f06319b927a47d8d628cd9cf242804
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Fri May 4 13:30:26 2018 -0400
+
+    help wiht controller.ml
+
+commit a387541c45b1ab9a71041f74355a3a21ba77bfef
+Merge: 6eac72e 1cb3289
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Fri May 4 12:51:40 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/szk4/cs3110-finalproject
+
+commit 6eac72e32b1a54ad28c86ff16b683087a1bcf969
+Merge: fa49cf6 0e2ef6f
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Fri May 4 12:51:34 2018 -0400
+
+    done
+
+commit 1cb32895176479afde71f525150f3677ba3fbf05
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Fri May 4 12:49:02 2018 -0400
+
+    fix play comment
+
+commit fa49cf62cdd09962018d4eb62c35031990f7b83e
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Fri May 4 12:48:45 2018 -0400
+
+    merge in shirleys'
+
+commit 0e2ef6f812f25d84ec2ee1785355d52dd00b00fb
+Merge: 4f4e209 c5d0797
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Fri May 4 12:48:01 2018 -0400
+
+    merge into ais
+
+commit 4f4e2097fd8608812ed554794c754c8f211af0b2
+Merge: 9bd17ab f5af4b5
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Fri May 4 12:46:01 2018 -0400
+
+    add index.html
+
+commit c5d0797c06288b4abf0141d7689f11be5972620f
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Fri May 4 02:41:53 2018 -0400
+
+    type checks
+
+commit b4932b3798932b9a4b5b736b68470a3cba27f5e8
+Author: Mahfuza Shovik <mahfuzashovik@dhcp-rhodes-2549.eduroam.cornell.edu>
+Date:   Thu May 3 21:52:33 2018 -0400
+
+    Circular build error gone
+
+commit a17d1365747b5d21fccd7e0e51ec4d85b7fea249
+Merge: dbbc768 d81a587
+Author: Mahfuza Shovik <mahfuzashovik@dhcp-rhodes-2549.eduroam.cornell.edu>
+Date:   Thu May 3 21:46:12 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/szk4/cs3110-finalproject
+
+commit dbbc7682236151594de074870b4beea4043423e3
+Author: Mahfuza Shovik <mahfuzashovik@dhcp-rhodes-2549.eduroam.cornell.edu>
+Date:   Thu May 3 21:45:45 2018 -0400
+
+    Modified mli
+
+commit d81a587240e44b4ba1fc9516c7526d22cf3adb4f
+Merge: 6abf243 b141936
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Thu May 3 21:44:59 2018 -0400
+
+    new stuff
+
+commit 6abf243a894c1d5a73639a62a8e17f8cd5f5c4b0
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Thu May 3 21:44:14 2018 -0400
+
+    wo'
+
+commit b1419363c6e27e3116dafa7d59e0dc5392950e0d
+Merge: 6f34d16 c6ae7db
+Author: Mahfuza Shovik <mahfuzashovik@dhcp-rhodes-2549.eduroam.cornell.edu>
+Date:   Thu May 3 21:36:38 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/szk4/cs3110-finalproject
+
+commit 6f34d166fd67771d89c4225f2ce0335834ea8b44
+Author: Mahfuza Shovik <mahfuzashovik@dhcp-rhodes-2549.eduroam.cornell.edu>
+Date:   Thu May 3 21:35:39 2018 -0400
+
+    Finished enemy_ai specs
+
+commit c6ae7db8253aced2964d7345531501ad843b55fd
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Thu May 3 21:34:50 2018 -0400
+
+    type help
+
+commit 2f1d3ed1c4a94cb9552cd1b1ad1954b6db848e66
+Merge: 318e000 32e4139
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Thu May 3 20:41:46 2018 -0400
+
+    merged
+
+commit 318e000a4199c95c40972e5773fbbf9e8edb201b
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Thu May 3 20:40:00 2018 -0400
+
+    mergE
+
+commit 32e41395aa4aaedddc659eed5822bae448f71c13
+Author: Mahfuza Shovik <mahfuzashovik@dhcp-rhodes-2942.redrover.cornell.edu>
+Date:   Thu May 3 20:39:32 2018 -0400
+
+    Changed back to a record
+
+commit af0fea6620e646be50ff1d96a5cf4f6ba9dec9bd
+Merge: 7cb87db 2d2b591
+Author: Mahfuza Shovik <mahfuzashovik@dhcp-rhodes-2942.redrover.cornell.edu>
+Date:   Thu May 3 20:27:59 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/szk4/cs3110-finalproject
+
+commit 7cb87db99b24b9dd8f0f705bf75d25bda8535cdf
+Author: Mahfuza Shovik <mahfuzashovik@dhcp-rhodes-2942.redrover.cornell.edu>
+Date:   Thu May 3 20:27:23 2018 -0400
+
+    Edits
+
+commit 2d2b591f4d8d44de8e56fbda3210748b69496557
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Thu May 3 20:25:34 2018 -0400
+
+    info record
+
+commit 9676933675977b48b3b87fcee5fdc12654c61b9f
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Thu May 3 20:20:54 2018 -0400
+
+    new next player
+
+commit 54871cca3ef99a64ba44b1765144bc7843ec6776
+Merge: bf2511c f5af4b5
+Author: Mahfuza Shovik <mahfuzashovik@dhcp-rhodes-2942.redrover.cornell.edu>
+Date:   Thu May 3 20:10:39 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/szk4/cs3110-finalproject
+
+commit bf2511cb91fced70fc12decb253ddcf362a06ff9
+Author: Mahfuza Shovik <mahfuzashovik@dhcp-rhodes-2942.redrover.cornell.edu>
+Date:   Thu May 3 20:09:05 2018 -0400
+
+    Edited enemy_ai.mli
+
+commit 9bd17abdac961dae4ef563bbdd051944c7c702eb
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Thu May 3 20:08:23 2018 -0400
+
+    add accuse
+
+commit f5af4b5c168cd0022740c1c7f1e0b5060eaf6e6b
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Thu May 3 20:07:29 2018 -0400
+
+    pushed
+
+commit 5dcaf4e3d536fa2c94e090bfb267a0759dcf1def
+Author: Alisha Mithal <alisha.mithal@gmail.com>
+Date:   Thu May 3 19:54:57 2018 -0400
+
+    added GUI images and sprites
+
+commit 3caae821a89bd2165fc07aeff7f03bed4b5eb4a2
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Thu May 3 19:25:34 2018 -0400
+
+    Adding share information
+
+commit cdf3619290b48dff8d2c62668dcca1969f84ec76
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Thu May 3 19:08:17 2018 -0400
+
+    fix match statement
+
+commit ac006001103621014fcab8300d7945d7ae72c811
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Thu May 3 16:55:15 2018 -0400
+
+    fix character type
+
+commit 69b6b938340afba0971e71e0096ef9f31c87869d
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Thu May 3 00:58:00 2018 -0400
+
+    work
+
+commit fc87b6068ef08450ca6531d27bbff45f18a278d6
+Merge: b1b6a10 fbc6291
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Tue May 1 23:46:46 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/szk4/cs3110-finalproject
+
+commit b1b6a10a1178c60bb3cabd76fecbdbf460072505
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Tue May 1 23:46:42 2018 -0400
+
+    working
+
+commit fbc62914268f3b96fae081965d3e96d01b22c16b
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Tue May 1 23:45:51 2018 -0400
+
+    pushed'
+
+commit 53aaf6111272433f488e51957c7ceb88d840d0c0
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Tue May 1 23:24:33 2018 -0400
+
+    some tests
+
+commit dc6e04a7c0892c9123b7de4cb7ab5e27923701a9
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Tue May 1 22:16:54 2018 -0400
+
+    working on types
+
+commit 1f3a541623f4c7d9f9df6267e01a510a212d3f54
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Tue May 1 16:14:08 2018 -0400
+
+    pulled new
+
+commit 3df467c97d47639ed0db22632a0038b06f94cc48
+Merge: b7c9d96 cd47f8f
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Tue May 1 16:12:17 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/szk4/cs3110-finalproject
+
+commit b7c9d9644f21ba6a870ae6894b230b20f2a1a2c9
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Tue May 1 16:12:13 2018 -0400
+
+    more enemy ai stuff
+
+commit cd47f8fc913449a56a596b70b7084f81f40ae568
+Merge: cdaab7a 356f703
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Tue May 1 16:11:26 2018 -0400
+
+    update play
+
+commit cdaab7a2585d1f8caf5d17379c5c0e046901e3c9
+Merge: 4fbe2ed 3650969
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Tue May 1 10:26:35 2018 -0400
+
+    work
+
+commit 356f70392810c3d90e461022963bf4a521f8580f
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Mon Apr 30 19:58:42 2018 -0400
+
+    Enemy ai now returns a state for move
+
+commit 4fbe2ed47f234b2923dc47b191d374f5b919c0a0
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Mon Apr 30 19:46:59 2018 -0400
+
+    update controller's update_state
+
+commit 3650969c4a0649da7580827a175832c80755f70f
+Merge: bfd9f4c 70e7363
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Mon Apr 30 19:38:24 2018 -0400
+
+    ergE
+
+commit bfd9f4c5f0ab4538f8900cc986a2b15ceee92b92
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Mon Apr 30 19:37:24 2018 -0400
+
+    want to pull new code
+
+commit 70e736348fbc70a655bf312889b320e5d818bac6
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Mon Apr 30 19:05:14 2018 -0400
+
+    add types.ml
+
+commit c779430b75494d7dde4f6988799f89b4f79a4ce8
+Author: Alisha Mithal <alisha.mithal@gmail.com>
+Date:   Mon Apr 30 14:14:43 2018 -0400
+
+    more work on controller update_state
+
+commit 05daf7e599ad26312b8159a53204a40b170de3b4
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Mon Apr 30 07:50:06 2018 -0400
+
+    working on update_state
+
+commit ff94ce927ec0aca8df768b4f02ae2ef4725f8fe0
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Mon Apr 30 04:19:43 2018 -0400
+
+    enemy ai in progres
+
+commit 275d80c9a394ff994b291b93046438944fa71ded
+Author: Alisha Mithal <alisha.mithal@gmail.com>
+Date:   Mon Apr 30 01:25:06 2018 -0400
+
+    form connections b/t controller.ml, enemy_ai.ml, and player.ml
+
+commit 809d491bde9d58c92a78ad5d8eed8c91a59d6112
+Author: Alisha Mithal <alisha.mithal@gmail.com>
+Date:   Wed Apr 25 19:08:14 2018 -0400
+
+    rewrote init functions to follow game rules
+
+commit 3f1d0cb2234485d29ebd44ce58964b427c8bf166
+Author: Alisha Mithal <alisha.mithal@gmail.com>
+Date:   Wed Apr 25 18:25:54 2018 -0400
+
+    play.ml, enemy_ai.ml setup
+
+commit 32fe23387f2b8b50c6248ac15df1e2c0fb794b5d
+Author: Alisha Mithal <alisha.mithal@gmail.com>
+Date:   Wed Apr 25 18:05:34 2018 -0400
+
+    added makefile, updated readme
+
+commit 137a1b91743c3981b3a2262ef37a4ba1586d1112
+Author: Alisha Mithal <alisha.mithal@gmail.com>
+Date:   Wed Apr 25 01:52:34 2018 -0400
+
+    init_player in player.ml
+
+commit f86f55b6fb724c48984733dd74d63353ecde3f24
+Author: Alisha Mithal <alisha.mithal@gmail.com>
+Date:   Wed Apr 25 01:39:06 2018 -0400
+
+    added game setup functions in controller.ml
+
+commit dc0fb69483fb8d83ca0294c4c9a74343b13866bf
+Author: Mahfuza Shovik <mahfuzashovik@dhcp-mcfad-11567.eduroam.cornell.edu>
+Date:   Thu Mar 29 23:17:34 2018 -0400
+
+    Added board.mli specs, edited other specs
+
+commit b6248725ad39509daaa2849ab03d6c08521da878
+Merge: 15fbdd2 50dd081
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Thu Mar 29 22:40:15 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/szk4/cs3110-finalproject
+
+commit 15fbdd2e49e91b61ebca06a73d39792f6d3aa3dd
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Thu Mar 29 22:40:10 2018 -0400
+
+    finish graphics and controller
+
+commit 50dd081b67f0b6aecce79ca7d4bb2171fdef34f1
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Thu Mar 29 22:37:43 2018 -0400
+
+    play.mli is about done
+
+commit 02e7b06dd63203ae257edb547760fae33db486d5
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Thu Mar 29 22:29:48 2018 -0400
+
+    play.mli is about done
+
+commit d3e7bd9b84ab9368dbfcc4bebd9a8c254217b70a
+Merge: 791b845 6943375
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Thu Mar 29 22:10:52 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/szk4/cs3110-finalproject
+
+commit 791b845a1dda1064eeeab01d572971214b388d66
+Author: KatyVoor <katyvoor@gmail.com>
+Date:   Thu Mar 29 22:10:49 2018 -0400
+
+    enemy ai is done
+
+commit 6943375cb1ae14248a6c52351b09354de788605b
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Thu Mar 29 22:00:41 2018 -0400
+
+    controller
+
+commit 42f774c969e6ff9db04be04ff6e5be064d4a2901
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Thu Mar 29 20:09:16 2018 -0400
+
+    update player.mli
+
+commit 2c4cfd09152f98e1446cd5b210864ead3834dbe4
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Thu Mar 29 17:40:05 2018 -0400
+
+    update mli
+
+commit 630b4d8bff60dd54cabbdd7708614cdec43ec86d
+Author: Shirley Kabir <shirleykabir@gmail.com>
+Date:   Sat Mar 24 15:38:56 2018 -0400
+
+    add mli files
+
+commit 2ce68ac31b9f199cd7770a0f05f98f8c3a180f7c
+Author: Shirley Zanifur Kabir <szk4@cornell.edu>
+Date:   Thu Mar 15 17:07:17 2018 -0400
+
+    Initial commit
