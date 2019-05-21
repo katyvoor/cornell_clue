@@ -1,7 +1,7 @@
 # Cornell Clue: A CS 3110 Final Project
 
 ## Interface
-![screenshot](https://github.coecis.cornell.edu/szk4/cs3110-finalproject/blob/master/static/interface.png)
+![Alt text](https://github.com/kavoor/cornell_clue/blob/master/static/interface.png?raw=true)
 
 ## About the Game
 The beloved Mr. Touchdown was apparently the victim of foul play and was found in one of the rooms of his Cornell-themed home. The object of the game is to discover the answer to these three questions: 1st. Who? Which one of the several suspects did it? 2nd. Where? 3rd. With What Weapon?
